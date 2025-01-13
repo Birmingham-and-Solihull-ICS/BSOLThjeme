@@ -6,7 +6,7 @@
 # it will be executed before any other file
 .onLoad <- function(libname, pkgname){
 
-  sysfonts::font_paths()
+  #sysfonts::font_paths()
   sysfonts::font_add_google("Open Sans", "Open Sans")
   sysfonts::font_add("Arial", "arial.ttf", "arialbd.ttf", "ariali.ttf", "arialbi.ttf")
   sysfonts::font_add("Calibri", "calibri.ttf", "calibrib.ttf", "calibrii.ttf", "calibriz.ttf")
