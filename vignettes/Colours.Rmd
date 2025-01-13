@@ -9,11 +9,11 @@ vignette: >
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.width = 8
+	echo = TRUE,
+	fig.width = 8,
+	collapse = TRUE,
+	comment = "#>"
 )
-
 library(BSOLTheme)
 library(ggplot2)
 library(tibble)

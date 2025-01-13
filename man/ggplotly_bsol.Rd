@@ -21,7 +21,7 @@ A plotly object
 ggplotly BSOL wrapper for passing the font size properly
 }
 \examples{
-library(ggplot)
+library(ggplot2)
 a<-ggplot(iris, aes(y=Sepal.Length, x=Sepal.Width, colour=Species))+
 geom_point()+
 scale_colour_bsol()+
