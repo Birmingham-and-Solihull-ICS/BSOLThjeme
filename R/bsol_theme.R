@@ -6,7 +6,7 @@
 #'
 #' @export
 #'
-#' @import ggplot2
+#' @import ggplot2 sysfonts showtext
 #'
 #' @examples
 #' \dontrun{
