@@ -8,6 +8,7 @@
 #' when it opens.
 #'
 #' @return Updates you user .Renviron file to have the right variables
+#' @importFrom usethis edit_file ui_todo ui_done
 #' @export
 #'
 #'

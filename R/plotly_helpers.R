@@ -5,7 +5,7 @@
 #' @param font required font, extracted from the plot if not specified otherwise
 #'
 #' @inheritParams plotly::layout
-#' @import plotly
+#' @importFrom plotly layout ggplotly
 #' @return A plotly object
 #' @export
 #'
