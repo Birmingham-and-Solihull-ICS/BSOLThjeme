@@ -15,17 +15,19 @@ output:
 stopifnot(Sys.getenv("MY_NAME") != "")
 stopifnot(Sys.getenv("MY_EMAIL") != "")
 stopifnot(Sys.getenv("MY_JOBTITLE") != "")
-
+library(showtext)
 library(knitr)
 library(tidyverse)
 library(BSOLTheme)
 
 # set default options
 opts_chunk$set(echo = FALSE,
+               fig.showtext = TRUE,
                fig.width = 7.252,
                fig.height = 4,
                dpi = 300,
                dev.args = list(type = "cairo"))
+
 
 # Set's the base ggplot theme to the BSOL Theme
 theme_set(theme_bsol())

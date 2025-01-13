@@ -11,6 +11,7 @@
   sysfonts::font_add("Arial", "arial.ttf", "arialbd.ttf", "ariali.ttf", "arialbi.ttf")
   sysfonts::font_add("Calibri", "calibri.ttf", "calibrib.ttf", "calibrii.ttf", "calibriz.ttf")
   sysfonts::font_add("Segoe UI", "segoeui.ttf", "segoeuib.ttf", "segoeuii.ttf", "segoeuiz.ttf")
+  showtext::showtext_auto()
 
   #extrafont::font_import()
   # suppressMessages({

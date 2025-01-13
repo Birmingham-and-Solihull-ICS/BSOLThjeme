@@ -6,14 +6,17 @@ output:
 ---
 
 ```{r setup, include = FALSE}
-
+library(showtext)
 library(knitr)
 library(tidyverse)
 library(BSOLTheme)
 
 # set default options
 opts_chunk$set(echo = FALSE,
+               fig.showtext = TRUE,
                dpi = 300,
+               fig.width = 7,
+               fig.height = 5,
                dev.args = list(type = "cairo"))
 
 # if you want to use the Strategy Unit Theme colours change the variable below
