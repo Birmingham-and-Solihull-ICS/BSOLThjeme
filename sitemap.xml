@@ -1,54 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/404.html</loc>
-  </url>
-  <url>
-    <loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/CONTRIBUTING.html</loc>
-  </url>
-  <url>
-    <loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/LICENSE-text.html</loc>
-  </url>
-  <url>
-    <loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/LICENSE.html</loc>
-  </url>
-  <url>
-    <loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/articles/Colours.html</loc>
-  </url>
-  <url>
-    <loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/articles/index.html</loc>
-  </url>
-  <url>
-    <loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/authors.html</loc>
-  </url>
-  <url>
-    <loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/index.html</loc>
-  </url>
-  <url>
-    <loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/bsol_document.html</loc>
-  </url>
-  <url>
-    <loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/bsol_presentation.html</loc>
-  </url>
-  <url>
-    <loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/bsol_setup.html</loc>
-  </url>
-  <url>
-    <loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/bsol_theme_cols.html</loc>
-  </url>
-  <url>
-    <loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/bsol_theme_gradient_colour_scales.html</loc>
-  </url>
-  <url>
-    <loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/bsol_theme_pal.html</loc>
-  </url>
-  <url>
-    <loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/ggplotly_bsol.html</loc>
-  </url>
-  <url>
-    <loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/index.html</loc>
-  </url>
-  <url>
-    <loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/theme_bsol.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/404.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/CONTRIBUTING.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/LICENSE-text.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/LICENSE.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/articles/Colours.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/articles/index.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/authors.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/index.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/bsol_document.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/bsol_presentation.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/bsol_setup.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/bsol_slide_template.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/bsol_theme_cols.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/bsol_theme_gradient_colour_scales.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/bsol_theme_pal.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/ggplotly_bsol.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/index.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/theme_bsol.html</loc></url>
+<url><loc>https://birmingham-and-solihull-ics.github.io/BSOLTheme/reference/theme_bsol_officer.html</loc></url>
 </urlset>
+
