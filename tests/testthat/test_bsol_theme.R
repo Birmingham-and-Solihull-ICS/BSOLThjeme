@@ -18,6 +18,6 @@ test_that("it calls theme_classic", {
   theme_bsol("")
 
   expect_called(m, 2)
-  expect_args(m, 1, base_family = "sans")
+  expect_args(m, 1, base_family = "Open Sans")
   expect_args(m, 2, base_family = "")
 })
